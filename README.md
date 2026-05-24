@@ -75,3 +75,26 @@ graph LR
     F --> G[addTumors]
     G --> H[Extract SoS & Density Maps]
     H --> I[k-Space Wave Execution]
+```
+
+1. Griffiths, C. E. M., Barker, J., Bleiker, T. O., Hussain, W., & Simpson, R. C. (Eds.).
+(2024). Rook’s Textbook of Dermatology (10th ed.). Wiley-Blackwell. ISBN: 978-1-119-
+70928-2.
+2. Moran, C. M., Bush, N. L., & Bamber, J. C. (1995). ULTRASONIC PROPAGATION
+PROPERTIES OF EXCISED HUMAN SKIN. Ultrasound in Med. & Biol., 21(9), 1177-
+1190.
+3. Oltulu, P., et al. (2018). Measurement of Epidermis, Dermis, and Total Skin Thicknesses
+from Six Different Body Regions with a new Ethical Histometric Technique. Turk J Plast
+Surg.
+4. Hwang et al. (2002). Skin thickness of Korean adults. Surgical and Radiologic Anatomy,
+24, 183–189.
+5. IT’IS (Foundation for Research on Information Technologies in Society) Database, V5.
+6. Thol, M., et al. (2021). Speed-of-Sound Measurements and a Fundamental Equation of
+State for Propylene Glycol. J. Phys. Chem. Ref. Data, 50, 023105.
+7. REMPEC MIDSIS. Propylene Glycol Chemical Data. Available at: https://midsis.
+rempec.org/en/find-chemical/propylene-glycol
+8. B. E. Treeby and B. T. Cox, "k-Wave: MATLAB toolbox for the simulation and reconstruction of photoacoustic wave-fields," J. Biomed. Opt., vol. 15, no. 2, p. 021314, 2010.
+9. B. E. Treeby, J. Jaros, A. P. Rendell, and B. T. Cox, "Modeling nonlinear ultrasound propagation in heterogeneous media with power law absorption using a k-space pseudospectral method," J. Acoust. Soc. Am., vol. 131, no. 6, pp. 4324-4336, 2012.
+10. B. E. Treeby, J. Jaros, D. Rohrbach, and B. T. Cox, "Modelling elastic wave propagation using the k-Wave MATLAB toolbox," IEEE International Ultrasonics Symposium, pp. 146-149, 2014.
+11. B. E. Treeby, J. Budisky, E. S. Wise, J. Jaros, and B. T. Cox, "Rapid calculation of acoustic fields from arbitrary continuous-wave sources," J. Acoust. Soc. Am., vol. 143, no. 1, pp. 529-537, 2018.
+
