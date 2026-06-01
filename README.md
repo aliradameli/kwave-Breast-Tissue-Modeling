@@ -1,10 +1,11 @@
 # Acoustic and Tissue Simulation for Breast Tumor Detection using k-Wave
 
-<a href="https://colab.research.google.com/github/aliradameli/kwave-Breast-Tissue-Modeling/blob/main/Tissue_Simulation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![k-Wave](https://img.shields.io/badge/Simulation-k--Wave-green.svg)](https://github.com/ucl-bug/k-wave-python)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+<a href="https://colab.research.google.com/github/aliradameli/kwave-Breast-Tissue-Modeling/blob/main/Tissue_Simulation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 This repository contains a full computational simulation pipeline designed to model multi-layered biological tissues (specifically human breast anatomy) and perform ultrasonic full-waveform modeling. By computing customized continuous distribution models of standard tissue property bounds, it models sound propagation through heterogeneous structures and lesions.
 
